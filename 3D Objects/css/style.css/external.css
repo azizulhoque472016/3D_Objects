@@ -1,0 +1,15 @@
+h3{
+   / display: none;/
+   /visibility: hidden;/
+}
+.header{
+   height: 300px;
+}
+.doller{
+   border: 3px solid red;
+   height: 40px;
+   display:inline-block;
+}
+  
+
+----------------------------
